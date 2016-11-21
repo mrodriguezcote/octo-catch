@@ -1,0 +1,41 @@
+# app
+#####
+node_modules
+
+
+# editors
+#########
+
+/nbproject/
+/.settings/
+/.project
+/.pydevproject
+/.classpath
+/.buildpath
+.idea/
+*.iml
+
+# vim
+*~
+*.swp
+*.swo
+
+
+# compiled source
+#################
+
+*.js.map
+*.css.map
+*.com
+*.class
+*.o
+*.so
+
+
+# general
+#########
+npm-debug.log
+*.tmp
+.DS_Store
+Thumbs.db
+*.orig

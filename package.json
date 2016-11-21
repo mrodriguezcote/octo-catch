@@ -1,0 +1,24 @@
+{
+  "name": "octo-catch",
+  "version": "1.0.0",
+  "description": "hook consumer for octo-ark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrodriguezcote/octo-catch.git"
+  },
+  "author": "Marco Rodriguez @ Blue Acorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrodriguezcote/octo-catch/issues"
+  },
+  "homepage": "https://github.com/mrodriguezcote/octo-catch#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "ngrok": "^2.2.3",
+    "pm2": "^2.1.5"
+  }
+}
